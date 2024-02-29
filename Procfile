@@ -1,1 +1,1 @@
-web: gunicorn online.wsgi
+web: gunicorn WiiftoTech.wsgi
